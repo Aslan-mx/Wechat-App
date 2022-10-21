@@ -1,0 +1,25 @@
+.sc-title{
+  font-weight: bold;
+  font-size: large;
+  margin-top: 30rpx;
+}
+.sc-empty-block{
+  width: 60%;
+  margin-top: 10rpx;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.empty-btn{
+  background-color: #FFF;
+  border:1rpx solid  green;
+}
+.sc-btn{
+  padding: 0rpx;
+  text-align: center;
+  width: 60rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  margin: 10rpx;
+}
